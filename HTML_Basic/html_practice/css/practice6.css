@@ -1,0 +1,19 @@
+#container {
+    width: 520px;
+    margin: 0px auto;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    --padding-left: 5px;
+}
+li {
+    margin: 10px 0px;
+}
+#private-info>li>label {
+    width: 80px;
+    float: left;
+    text-align: left;
+}
